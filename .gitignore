@@ -1,0 +1,16 @@
+#Compiled Object Files, Static and Dynamic Libs
+*.o
+*.a
+*.so
+
+#Folders
+_obj
+_test
+
+#Architecture specific Extensions/prefixes
+_testmain.go
+
+*.exe
+*.test
+*.prof
+
