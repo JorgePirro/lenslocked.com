@@ -14,6 +14,8 @@ _testmain.go
 *.test
 *.prof
 
+tmp/
+
 #Dont commit the exe file
 lensLock.com.exe
 package.json
